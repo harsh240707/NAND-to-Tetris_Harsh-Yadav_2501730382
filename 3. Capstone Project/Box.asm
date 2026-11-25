@@ -1,4 +1,4 @@
-// Box.asm  -  K = 62
+// Box.asm  -  K = 82
 (LOOP)
     @24576
     D=M
