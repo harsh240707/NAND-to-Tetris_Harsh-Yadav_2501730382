@@ -1,8 +1,8 @@
 import re
 import sys
 
-K = 62                  # your K
-FEATURE = K % 3         # 62 % 3 = 2 -> duplicate label warning
+K = 82                  
+FEATURE = K % 3         
 
 COMP = {
     "0": "0101010", "1": "0111111", "-1": "0111010",
